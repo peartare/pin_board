@@ -31,6 +31,8 @@ gem 'haml', '~> 4.0.6'
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'simple_form', '~> 3.1.0'
 
+gem 'devise'
+
 
 # Use Unicorn as the app server
 # gem 'unicorn'
